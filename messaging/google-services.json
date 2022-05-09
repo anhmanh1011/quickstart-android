@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973701866197",
+    "project_id": "pushnotify-kss",
+    "storage_bucket": "pushnotify-kss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973701866197:android:fbdd3569c0cf97facfb85c",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973701866197-vn4lhtgi8vigjc6kfol2siceaendsrm3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHZiEBJMA1qDRP74z7gkEvMVXCA9iFZLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973701866197-vn4lhtgi8vigjc6kfol2siceaendsrm3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
